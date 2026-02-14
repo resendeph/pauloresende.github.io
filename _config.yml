@@ -14,7 +14,7 @@ author:
   avatar           : "images/profile.png"   # ← upload your photo to images/ with this name
   bio              : "PhD Student in Agricultural and Applied Economics"
   location         : "Lubbock, TX"
-  employer         :
+  employer         : "Free Market Institute"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Fb8_TdsAAAAJ&hl=en&oi=sra"  # ← add your Google Scholar URL if you have one
   email            : "paulo.resende@ttu.edu"
